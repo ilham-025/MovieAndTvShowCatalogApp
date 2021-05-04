@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ItsMovie</string>
+    <string name="movies">Movies</string>
+    <string name="tv_shows">Tv Shows</string>
+    <string name="content_1"><![CDATA[Watch & Enjoy]]></string>
+    <string name="text_year">%s |</string>
+    <string name="user_score">100%</string>
+    <string name="text_time">| %s</string>
+    <string name="text_director">Director: %s</string>
+    <string name="text_creator">Creator: %s</string>
+    <string name="text_release">Release: %s</string>
+    <string name="text_episode_count">Episode Count: %s Episode</string>
+</resources>
